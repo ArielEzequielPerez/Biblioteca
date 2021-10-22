@@ -1,6 +1,6 @@
 # Requerimientos
- Para el ide [Visual Studio Community](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16).
- y [.NET framework] (https://www.microsoft.com/es-ar/download/confirmation.aspx?id=30653).
+ Para el ide [Visual Studio Community](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16)
+ y [NET framework] (https://www.microsoft.com/es-ar/download/confirmation.aspx?id=30653).
 
 # Ejercicios
 - crear una clase llamada libro que almacene la información de cada uno de los libros en una biblioteca. La clase debe conservar el título del libro el autor el numeros de copias del libero u el número de copias en prestamo.
