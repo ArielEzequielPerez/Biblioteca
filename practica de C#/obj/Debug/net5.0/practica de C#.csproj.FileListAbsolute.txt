@@ -1,0 +1,16 @@
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/practica de C#
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/practica de C#.deps.json
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/practica de C#.runtimeconfig.json
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/practica de C#.runtimeconfig.dev.json
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/practica de C#.dll
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/ref/practica de C#.dll
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/bin/Debug/net5.0/practica de C#.pdb
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.csproj.AssemblyReference.cache
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.AssemblyInfoInputs.cache
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.AssemblyInfo.cs
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.csproj.CoreCompileInputs.cache
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.dll
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/ref/practica de C#.dll
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.pdb
+/home/ariel-perez/Documentos/comunidad It/practica_de_C-_POO/practica de C#/obj/Debug/net5.0/practica de C#.genruntimeconfig.cache
